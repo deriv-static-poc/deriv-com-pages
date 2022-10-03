@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkderiv_com=self.webpackChunkderiv_com||[]).push([[6861],{79307:function(e,t,n){n.r(t);var a=n(67294),r=n(51625),c=n(89143),i=n(98367),m=n(70349);t.default=(0,m.Wm)()((function(){return a.createElement(a.Fragment,null,a.createElement(i.HJ,{title:"Deriv Careers | Project management jobs",description:"See job vacancies in Deriv’s Project management team. Join and grow with us."}),a.createElement(r.Z,{data:c.Z.pm[0]}))}))}}]);
+//# sourceMappingURL=component---src-pages-careers-project-management-index-tsx-2b02d557af51e6742d3a.js.map

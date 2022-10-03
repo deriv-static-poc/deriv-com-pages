@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkderiv_com=self.webpackChunkderiv_com||[]).push([[9201],{76724:function(e,n,t){t.r(n);var a=t(67294),r=t(51625),c=t(89143),i=t(98367),l=t(70349);n.default=(0,l.Wm)()((function(){return a.createElement(a.Fragment,null,a.createElement(i.HJ,{title:"Deriv Careers | Back-end Development jobs",description:"See job vacancies in Deriv’s Back-end Development team. Join and grow with us."}),a.createElement(r.Z,{data:c.Z.back_end[0]}))}))}}]);
+//# sourceMappingURL=component---src-pages-careers-back-end-index-tsx-890178d02cd4d70bb3b3.js.map

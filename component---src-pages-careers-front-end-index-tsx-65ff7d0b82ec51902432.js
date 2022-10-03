@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkderiv_com=self.webpackChunkderiv_com||[]).push([[914],{37557:function(e,n,t){t.r(n);var r=t(67294),a=t(51625),i=t(89143),o=t(98367),c=t(70349);n.default=(0,c.Wm)()((function(){return r.createElement(r.Fragment,null,r.createElement(o.HJ,{title:"Deriv Careers | Front-end development jobs",description:"See job vacancies in Deriv’s Front-end development team. Join and grow with us."}),r.createElement(a.Z,{data:i.Z.front_end[0]}))}))}}]);
+//# sourceMappingURL=component---src-pages-careers-front-end-index-tsx-65ff7d0b82ec51902432.js.map
